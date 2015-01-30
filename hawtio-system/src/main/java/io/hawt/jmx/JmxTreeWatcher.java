@@ -60,7 +60,7 @@ public class JmxTreeWatcher implements JmxTreeWatcherMBean {
             if (Strings.isNotBlank(text)) {
                 text += " ";
             }
-            LOG.info("Welcome to hawtio " + text + ": http://hawt.io/ : Don't cha wish your console was hawt like me? ;-)");
+            LOG.info("Welcome to hawtio " + text + ": http://hawt.io/ : a modular web console for managing your Java stuff");
         }
     }
 

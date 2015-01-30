@@ -2,7 +2,7 @@
   "manifest_version": 2,
 
   "name": "hawtio",
-  "description": "Don't cha wish your console was hawt like me?",
+  "description": "a modular web console for managing your Java stuff",
 
   "version": "1.0.0",
 

@@ -3,7 +3,7 @@
 
   "name": "hawtio",
   "short_name": "hawt.io",
-  "description": "Don't cha wish your console was hawt like me?",
+  "description": "a modular web console for managing your Java stuff",
 
   "version": "${parsedVersion.majorVersion}.${parsedVersion.minorVersion}.${parsedVersion.incrementalVersion}.${timestamp}",
 

@@ -121,7 +121,7 @@ public class Main {
 
         if (welcome) {
             System.out.println();
-            System.out.println("hawtio: Don't cha wish your console was hawt like me!");
+            System.out.println("hawtio: a modular web console for managing your Java stuff");
             System.out.println("=====================================================");
             System.out.println();
             System.out.println("http://localhost:" + options.getPort() + options.getContextPath());
